@@ -3,7 +3,12 @@ set -e # exit the script when there is an error
 set -o pipefail
 
 
-PAT(personal access token)
+PAT(personal access token) 
+
+
+## git remote set-url origin https://<PAT>@github.com/<username>/<repository>.git
+
+
 ## How to Create a Personal Access Token (PAT) on GitHub
 
 1. **Log in to GitHub:**
@@ -36,8 +41,3 @@ PAT(personal access token)
    - Treat your PAT like a password. Do not share it publicly or expose it in code repositories.
    - Revoke tokens you no longer need to maintain security.
 
-
-
-
-
-git remote set-url origin https://<PAT>@github.com/<username>/<repository>.git
