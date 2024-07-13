@@ -49,3 +49,8 @@ PAT(personal access token)
 
 The command 'git push' is used to push a local repository to a remote repository on GitHub.
 Git is a distributed version control system that allows developers to collaborate on projects without having to rely on a central repository.
+Git branch is a a separate line of development from the main code, which allows developers to track and make changes to their code over time without affecting the main line of code.
+Git add is the command used to stage files for a commit in Git.
+The command 'git checkout -b' creates a new branch in Git.
+Git is a version control system, and GitHub is a hosting platform for Git repositories.
+The 'git init' command is used to initialize a repository in Git.
