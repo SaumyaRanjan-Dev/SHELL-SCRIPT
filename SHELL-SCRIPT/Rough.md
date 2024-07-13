@@ -40,4 +40,12 @@ PAT(personal access token)
 9. **Usage Notes:**
    - Treat your PAT like a password. Do not share it publicly or expose it in code repositories.
    - Revoke tokens you no longer need to maintain security.
+  
 
+
+
+
+
+
+The command 'git push' is used to push a local repository to a remote repository on GitHub.
+Git is a distributed version control system that allows developers to collaborate on projects without having to rely on a central repository.
