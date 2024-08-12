@@ -1,0 +1,19 @@
+## How to Use
+
+1. **Save the script to a file**, e.g., `install_jenkins.sh`.
+
+2. **Make the script executable**:
+
+   ```bash
+   chmod +x install_jenkins.sh
+
+
+   
+3. **Run the script with sudo**:
+
+   ```bash
+   sudo ./install_jenkins.sh
+
+   
+
+## This script automates the entire process of installing Jenkins on a Linux system, including updating the system, installing Java, adding the Jenkins repository, installing Jenkins, starting the service, and adjusting the firewall settings.
